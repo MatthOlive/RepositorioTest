@@ -3,6 +3,10 @@ public class matheus{
 	int path;
 
 	public void close(){
+	
+	}
+	
+	public void open(){
 
 	}
 }
